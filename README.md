@@ -17,8 +17,8 @@
 
 这里有两个基于`webpack`和`parcel`构建的react小项目。
 
-* [react_demo]()
-* [webpack_demo]()
+* [parcel_demo](https://github.com/Michaelooo/webpackToParcel/tree/master/parcel_demo)
+* [webpack_demo](https://github.com/Michaelooo/webpackToParcel/tree/master/webpack_demo)
 
 两个小项目同时引用了 `react` ,`react-demo`,以及用于解析的`babel-preset-react`。对于`webapck`,还引入了一个解析 es6 的`babel-loader`。
 
